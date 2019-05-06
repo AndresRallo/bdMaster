@@ -9,5 +9,9 @@
 define ("URLBASE","http://localhost/loginAndres2/");
 
 /*
- * 
+ * Parámetros de la BD
  */
+define("DBNAME",'leyes');
+define("DBUSR",'duoc');
+define("DBPWD",'');
+define("DBHOST",'localhost');
